@@ -1,7 +1,7 @@
 # Github Actions Rss (garss, 嘎RSS! 已收集231个RSS源, 生成时间: 2023-12-04 16:30:45)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的“茧房”中的现象。
-
+ 
 ## 《嘎!RSS》🐣为打破信息茧房而生
 
 ![](https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/ga-rss.png)
